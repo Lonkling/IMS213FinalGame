@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/IMS213Final/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/TheACTUALLevel.umap",
+				"D:/Unreal Projects/IMS213Final/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode1.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/Mainmenumap.umap",
+				"D:/Unreal Projects/IMS213Final/Content/UI/Menugamemode.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/UI/Mainmenu.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/UI/claudio-testa--SO3JtE3gZo-unsplash.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/coin.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/TheACTUALLevel.umap",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/coin.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/Gold.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/uploads_files_4066234_Dollar+Coin_Background.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/coinModel.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/coinBlueprint.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/Material.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/collect-points-190037.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/coinWidget.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/Bp_MovingPlatform.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/UI/lose.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/UI/COuntdownTimer.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/DoorKeyLocked.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/Key.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/ImportsForLevel/pluko_-_RUNAWAY__Official_Audio_.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/UI/win.uasset",
+				"D:/Unreal Projects/IMS213Final/Content/Blueprints/NewHUD.uasset"
+			]
+		}
+	]
+}
